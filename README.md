@@ -1,6 +1,7 @@
 # Tejas Kaushik
 
-BEng Electronics & Software Engineering student at the University of Glasgow, interested in embedded systems, digital design, and circuit analysis.
+BEng Electronics & Software Engineering student at the University of Glasgow, combining hands-on electronics labs (digital logic, microcontrollers, RC/RLC measurement) with software development in Python and Java. Currently documenting lab projects on GitHub and progressing toward PCB/embedded design work.
+
 
 ## Focus areas
 - Embedded systems & digital electronics (microcontrollers, breadboarding, debugging)
