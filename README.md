@@ -11,7 +11,11 @@ BEng Electronics & Software Engineering student at the University of Glasgow, in
 - Heart Rate Monitor (PCB + Embedded) — in progress
 
 ## Tools
-OrCAD Capture, PSpice, MATLAB, breadboarding, oscilloscope-based testing
+- OrCAD Capture, PSpice
+- MATLAB
+- Breadboarding
+- Oscilloscope-based testing
+- Embedded systems and processes 
 
 ## Contact
 - Email: tejaskaushik04@gmail.com
