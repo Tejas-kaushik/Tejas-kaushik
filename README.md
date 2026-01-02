@@ -3,9 +3,11 @@
 BEng Electronics & Software Engineering student at the University of Glasgow, interested in embedded systems, digital design, and circuit analysis.
 
 ## Focus areas
-- Embedded / digital electronics (microcontrollers, breadboarding, debugging)
-- Circuit analysis (RC/RLC behaviour, measurement and validation)
+- Embedded systems & digital electronics (microcontrollers, breadboarding, debugging)
+- Circuit analysis & measurement (RC/RLC behaviour, oscilloscope-based validation)
+- Software development (Python/Java; building small tools and course projects)
 - PCB design (in progress)
+
 
 ## Featured work
 - Heart Rate Monitor (PCB + Embedded) — in progress
@@ -15,7 +17,7 @@ BEng Electronics & Software Engineering student at the University of Glasgow, in
 - MATLAB
 - Breadboarding
 - Oscilloscope-based testing
-- Embedded systems and processes 
+- Git/GitHub
 
 ## Contact
 - Email: tejaskaushik04@gmail.com
