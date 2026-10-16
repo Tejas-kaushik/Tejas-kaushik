@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Tejas%20Kaushik&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Electronics%20%26%20Software%20Engineer%20%C2%B7%20University%20of%20Glasgow&descSize=17&descAlignY=58" alt="Tejas Kaushik"/>
+<img src="assets/header.svg" width="100%" alt="Tejas Kaushik"/>
 
 <a href="https://github.com/Tejas-kaushik">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+from+the+PCB+up+to+the+server.;Systems+software+in+C+on+Linux+%C2%B7+epoll%2C+perf%2C+valgrind;Real-time+firmware+on+ESP32+and+ARM+Cortex-M;%F0%9F%A5%88+2nd+place+%C2%B7+StrathHack26;Open+to+Summer+2027+placements" alt="Typing intro"/>
@@ -136,7 +136,7 @@ Built a networked air-quality monitor with a live web dashboard, from breadboard
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt=""/>
+<img src="assets/footer.svg" width="100%" alt=""/>
 
 **Let's build something.** <a href="mailto:tejaskaushik04@gmail.com">tejaskaushik04@gmail.com</a> · <a href="https://www.linkedin.com/in/tejas-kaushik-62435b405">LinkedIn</a>
 
