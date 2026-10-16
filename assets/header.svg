@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0f2027"/>
+      <stop offset="0.5" stop-color="#203a43"/>
+      <stop offset="1" stop-color="#2c5364"/>
+    </linearGradient>
+    <linearGradient id="t" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#7dd3fc"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#g)" d="M0 0H1200V170C1100 205 1000 215 880 195C760 175 660 140 540 150C420 160 330 205 210 205C130 205 60 190 0 175Z"/>
+  <path fill="#38bdf8" fill-opacity="0.12" d="M0 150C120 185 240 190 380 170C520 150 620 120 760 135C900 150 1020 195 1200 160V0H0Z"/>
+  <text x="600" y="98" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="url(#t)">Tejas Kaushik</text>
+  <text x="600" y="138" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="20" fill="#cbd5e1" letter-spacing="1">Electronics &amp; Software Engineer · University of Glasgow</text>
+</svg>
