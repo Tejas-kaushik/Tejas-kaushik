@@ -51,6 +51,13 @@ tejas:
 - Real-time sync over Server-Sent Events with server-clock countdowns and seamless reconnects
 - 360+ `node --test` tests, including the shared-budget race and path-traversal hardening; a hand-written PDF writer generates each player's debrief
 
+### 🦆 [Duck Run](https://github.com/Tejas-kaushik/duck-run) · TypeScript · Three.js · Supabase
+**Team project at GUTS 2026** for the JPMorgan Chase "two buttons maximum" challenge. A 3D browser game where a whole room races on their phones while the big screen shows every duck on one track, with live commentary and a podium. **[▶ Play it](https://duck-run-lac.vercel.app)**
+
+- My part: integrating the team's work into one game, the 3D rendering, the pond lobby, the multiplayer races, the big-screen spectator mode and the phone controls
+- Every phone builds the identical course from the room's seed and starts on the same server clock; Supabase Realtime streams everyone's progress, with row-level security so players can only write their own results
+- 155 unit tests and 60 database security checks, with CI on every push; designed on paper by the team and built with AI-assisted development
+
 ### ⚡ mini-redis · C17 · Linux · epoll
 A Redis-compatible key-value server built from scratch on Linux system calls, no third-party libraries. The stock `redis-cli` and `redis-benchmark` work against it unmodified.
 
@@ -99,7 +106,7 @@ Built a networked air-quality monitor with a live web dashboard, from breadboard
 <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,matlab&theme=dark" alt="C, C++, Python, Java, JavaScript, TypeScript, MATLAB"/>
 
 **Systems, tooling and web**<br/>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,githubactions,vscode,nodejs,django,react,tailwind,html,css&theme=dark" alt="Linux, Ubuntu, Bash, Git, GitHub Actions, VS Code, Node.js, Django, React, Tailwind, HTML, CSS"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,githubactions,vscode,nodejs,django,react,tailwind,html,css,threejs,supabase&theme=dark" alt="Linux, Ubuntu, Bash, Git, GitHub Actions, VS Code, Node.js, Django, React, Tailwind, HTML, CSS, Three.js, Supabase"/>
 
 **Embedded and hardware**<br/>
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008C45?style=flat-square&logo=freertos&logoColor=white)
