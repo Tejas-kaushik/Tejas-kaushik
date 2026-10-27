@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Tejas Kaushik"/>
 
 <a href="https://github.com/Tejas-kaushik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+from+the+PCB+up+to+the+server.;Systems+software+in+C+on+Linux+%C2%B7+epoll%2C+perf%2C+valgrind;Real-time+firmware+on+ESP32+and+ARM+Cortex-M;%F0%9F%A5%88+2nd+place+%C2%B7+StrathHack26;Open+to+Summer+2027+placements" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+from+the+PCB+up+to+the+server.;Systems+software+in+C+on+Linux+%C2%B7+epoll%2C+perf%2C+valgrind;Real-time+firmware+on+ESP32+and+ARM+Cortex-M;%F0%9F%A5%88+2nd+place+%C2%B7+StrathHack26;Full-stack+websites+for+Content+Book+by+Tee;Open+to+Summer+2027+placements" alt="Typing intro"/>
 </a>
 
 <p>
@@ -27,6 +27,7 @@ tejas:
   right_now:  Systems Programming (C/C++ on Linux), Communication Systems, Real-Time Computer Systems
   software:   C, C++, Python, JavaScript · Linux syscalls, epoll, TCP/IP · Django, Node.js, React
   hardware:   FreeRTOS on ESP32 · ARM Cortex-M · OrCAD schematic + PCB · scope and logic-analyser debug
+  web_work:   full-stack websites for Content Book by Tee (CBT), a Glasgow content studio
   habits:     tests first, CI on every push, profile before optimising
   looking_for: Summer 2027 software / embedded / electronics engineering placement
 ```
@@ -57,6 +58,14 @@ tejas:
 - My part: integrating the team's work into one game, the 3D rendering, the pond lobby, the multiplayer races, the big-screen spectator mode and the phone controls
 - Every phone builds the identical course from the room's seed and starts on the same server clock; Supabase Realtime streams everyone's progress, with row-level security so players can only write their own results
 - 155 unit tests and 60 database security checks, with CI on every push; designed on paper by the team and built with AI-assisted development
+
+### 📖 [Content Book by Tee](https://github.com/Tejas-kaushik/Official---CBT-) · Node.js 22 · Express · SQLite · Vercel
+The official website for **Content Book by Tee (CBT)**, a content studio in Glasgow and India, with the backend the team runs enquiries from. **[▶ Live site](https://official-cbt.vercel.app)**
+
+- Public site, enquiry API and a password-protected studio desk at `/admin`, where the team moves each enquiry from new → replied → call booked → won and keeps notes
+- One storage interface with two backends: Node's built-in `node:sqlite` on a disk, Upstash Redis on Vercel's serverless platform
+- Signed-cookie sign-in with rate limiting, a spam trap, validation and HTML escaping, and an optional email alert per enquiry
+- The logo traced into SVG so it stays sharp at any size; no build step, and `node --test` covers the form, the desk and the security checks
 
 ### ⚡ mini-redis · C17 · Linux · epoll
 A Redis-compatible key-value server built from scratch on Linux system calls, no third-party libraries. The stock `redis-cli` and `redis-benchmark` work against it unmodified.
@@ -89,6 +98,7 @@ A voice assistant engineered around one latency budget: the first sound back wit
 | [**transient-trace-analyzer**](https://github.com/Tejas-kaushik/transient-trace-analyzer) | Python · pytest · GitHub Actions | CLI that turns oscilloscope CSV traces into RC/RLC parameters; installable package, CI on every push |
 | **PPG heart-rate monitor** | Embedded C · OrCAD · custom PCB | Analogue acquisition → filtering → beat detection → live BPM; board brought up and validated on a scope |
 | [**find_my_recipe_team_3A**](https://github.com/HibaBaig/find_my_recipe_team_3A) | Django · Bootstrap · AJAX | Team of four; I wrote the test suite and the "Surprise Me" ingredient matcher |
+| [**Morning Rush**](https://tejas-kaushik.github.io/mrngrush/) | HTML · CSS · JS · GitHub Pages | Website preview for a Glasgow café, built for CBT from the café's own lettering and photos, with a live "open now" sign in Glasgow time |
 | **The Stramont** | HTML · CSS · JS · React | Website for a Glasgow café, commissioned by the owner and built to their brief |
 | [**rc-rlc-transient-labs**](https://github.com/Tejas-kaushik/rc-rlc-transient-labs) | OrCAD · PSpice | RC and RLC characterisation validated against simulation |
 | [**reverse-counter-display**](https://github.com/Tejas-kaushik/reverse-counter-display) | Digital logic | Breadboard countdown counter on a 7-segment display |
@@ -96,6 +106,9 @@ A voice assistant engineered around one latency budget: the first sound back wit
 </details>
 
 ## 💼 Experience
+
+**Web Developer**, Content Book by Tee (CBT), Glasgow · *Oct 2026 to present*
+Build the studio's own full-stack website and enquiry desk, and website previews for the cafés CBT pitches to.
 
 **Summer Engineering Intern**, Technology Business Incubator, Graphic Era Hill University · *Jun to Jul 2026*
 Built a networked air-quality monitor with a live web dashboard, from breadboard to working demonstrator, and prototyped a 3D-printed 4-DOF robotic arm with its control firmware.
@@ -106,7 +119,7 @@ Built a networked air-quality monitor with a live web dashboard, from breadboard
 <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,matlab&theme=dark" alt="C, C++, Python, Java, JavaScript, TypeScript, MATLAB"/>
 
 **Systems, tooling and web**<br/>
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,githubactions,vscode,nodejs,django,react,tailwind,html,css,threejs,supabase&theme=dark" alt="Linux, Ubuntu, Bash, Git, GitHub Actions, VS Code, Node.js, Django, React, Tailwind, HTML, CSS, Three.js, Supabase"/>
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,githubactions,vscode,nodejs,express,django,react,tailwind,html,css,threejs,supabase,sqlite,redis,vercel&theme=dark" alt="Linux, Ubuntu, Bash, Git, GitHub Actions, VS Code, Node.js, Express, Django, React, Tailwind, HTML, CSS, Three.js, Supabase, SQLite, Redis, Vercel"/>
 
 **Embedded and hardware**<br/>
 ![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008C45?style=flat-square&logo=freertos&logoColor=white)
