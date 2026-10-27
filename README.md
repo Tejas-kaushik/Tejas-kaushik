@@ -1,25 +1,22 @@
 <div align="center">
 
-<img src="assets/header.svg" width="100%" alt="Tejas Kaushik"/>
+<img src="assets/header.svg" width="100%" alt="Tejas Kaushik, electronics and software engineer"/>
 
-<a href="https://github.com/Tejas-kaushik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+from+the+PCB+up+to+the+server.;Systems+software+in+C+on+Linux+%C2%B7+epoll%2C+perf%2C+valgrind;Real-time+firmware+on+ESP32+and+ARM+Cortex-M;%F0%9F%A5%88+2nd+place+%C2%B7+StrathHack26;Catching+silent+AI+failures+in+eye+clinics+%C2%B7+OxHack+26;Full-stack+websites+for+Content+Book+by+Tee;Open+to+Summer+2027+placements" alt="Typing intro"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=900&color=A1FFCB&center=true&vCenter=true&width=700&lines=$+whoami+%E2%86%92+builds+from+the+PCB+up+to+the+server;Systems+software+in+C+on+Linux+%C2%B7+epoll,+perf,+valgrind;Real-time+firmware+on+ESP32+and+ARM+Cortex-M;2nd+place+%C2%B7+StrathHack26;Catching+silent+AI+failures+in+eye+clinics+%C2%B7+OxHack+26;Full-stack+websites+for+Content+Book+by+Tee;Open+to+Summer+2027+placements" alt="Typing intro"/>
 
 <p>
-  <a href="https://www.linkedin.com/in/tejas-kaushik-62435b405"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:tejaskaushik04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <img src="https://img.shields.io/badge/📍_Glasgow,_UK-1f2937?style=for-the-badge" alt="Glasgow, UK"/>
-  <img src="https://img.shields.io/badge/Open_to-Summer_2027_placements-2ea44f?style=for-the-badge" alt="Open to Summer 2027 placements"/>
+  <a href="https://tejas-kaushik.github.io/"><img src="https://img.shields.io/badge/Portfolio-0b100f?style=for-the-badge&logo=circuitverse&logoColor=a1ffcb&labelColor=0b100f&color=0b100f" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/tejas-kaushik-62435b405"><img src="https://img.shields.io/badge/LinkedIn-0b100f?style=for-the-badge&logo=linkedin&logoColor=a1ffcb&labelColor=0b100f&color=0b100f" alt="LinkedIn"/></a>
+  <a href="mailto:tejaskaushik04@gmail.com"><img src="https://img.shields.io/badge/Email-0b100f?style=for-the-badge&logo=gmail&logoColor=a1ffcb&labelColor=0b100f&color=0b100f" alt="Email"/></a>
+  <img src="https://img.shields.io/badge/Glasgow,_UK-0b100f?style=for-the-badge&logo=googlemaps&logoColor=d9a654" alt="Glasgow, UK"/>
+  <img src="https://img.shields.io/badge/Open_to-Summer_2027_placements-a1ffcb?style=for-the-badge&labelColor=0b100f" alt="Open to Summer 2027 placements"/>
 </p>
 
 </div>
 
----
+## ▍about
 
-## 👋 About me
-
-Third-year **BEng Electronics & Software Engineering** student at the **University of Glasgow**. I build things end to end, from the analogue front end and the PCB, through the firmware, up to the servers and tools that talk to them, and I measure them rather than assume they work.
+Third-year **BEng Electronics & Software Engineering** at the **University of Glasgow**. I build the whole path a signal takes: the analogue front end and the PCB, the firmware that samples it, the server it reaches and the tools that check every step. I measure things rather than assume they work.
 
 ```yaml
 tejas:
@@ -32,19 +29,30 @@ tejas:
   looking_for: Summer 2027 software / embedded / electronics engineering placement
 ```
 
-## 🏆 Highlights
+## ▍featured builds
 
 <table>
 <tr>
-<td align="center" width="20%"><h3>🥈 2nd</h3><sub><b>StrathHack26</b><br/>ScottishPower cyber security challenge</sub></td>
-<td align="center" width="20%"><h3>8 / 8</h3><sub><b>failing eye clinics caught</b><br/>by my ClinicDrift engine at OxHack 26, 0 false alarms</sub></td>
-<td align="center" width="20%"><h3>−40%</h3><sub><b>instructions per request</b><br/>in my Redis-compatible C server, found with <code>perf</code></sub></td>
-<td align="center" width="20%"><h3>200 Hz</h3><sub><b>hard-real-time PID loop</b><br/>held steady under live Wi-Fi load</sub></td>
-<td align="center" width="20%"><h3>360+</h3><sub><b>automated tests</b><br/>behind the award-winning Zero Hour game</sub></td>
+<td width="50%"><a href="https://github.com/Tejas-kaushik/zero-hour"><img src="assets/cards/zero-hour.svg" width="100%" alt=""/></a></td>
+<td width="50%"><a href="https://github.com/ox-hack-26/oxhack26-surely-we-win-"><img src="assets/cards/clinicdrift.svg" width="100%" alt=""/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Tejas-kaushik/duck-run"><img src="assets/cards/duck-run.svg" width="100%" alt=""/></a></td>
+<td width="50%"><a href="https://tejas-kaushik.github.io/"><img src="assets/cards/mini-redis.svg" width="100%" alt=""/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Tejas-kaushik/esp32-line-follower"><img src="assets/cards/esp32.svg" width="100%" alt=""/></a></td>
+<td width="50%"><a href="https://github.com/Tejas-kaushik/Friday-AI-Assistant-"><img src="assets/cards/friday.svg" width="100%" alt=""/></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://official-cbt.vercel.app"><img src="assets/cards/cbt.svg" width="100%" alt=""/></a></td>
+<td width="50%"><a href="https://tejas-kaushik.github.io/mrngrush/"><img src="assets/cards/morning-rush.svg" width="100%" alt=""/></a></td>
 </tr>
 </table>
 
-## 🚀 Featured projects
+<details>
+<summary><b>Engineering notes for each build</b></summary>
+<br/>
 
 ### 🥈 [Zero Hour](https://github.com/Tejas-kaushik/zero-hour) · Node.js · Server-Sent Events · zero dependencies
 **2nd place at StrathHack26.** A multiplayer cyber-awareness game for workplace training: teams defend a fictional energy company through an overnight cyber attack, answering timed security questions on their phones. **[▶ Live demo](https://team-20-1.onrender.com/)**
@@ -98,6 +106,8 @@ A voice assistant engineered around one latency budget: the first sound back wit
 - Tools served over the Model Context Protocol (weather, news, web search, system state) plus an async "deep analysis" job so it keeps talking while it thinks
 - 17/17 on its own evaluation harness
 
+</details>
+
 <details>
 <summary><b>More projects</b></summary>
 <br/>
@@ -114,7 +124,7 @@ A voice assistant engineered around one latency budget: the first sound back wit
 
 </details>
 
-## 🏁 Hackathons
+## ▍hackathons
 
 | | Event | Project | What we built |
 |:-:|---|---|---|
@@ -122,14 +132,14 @@ A voice assistant engineered around one latency budget: the first sound back wit
 | 🔬 | **OxHack 26** · HRT data challenge | [ClinicDrift](https://github.com/ox-hack-26/oxhack26-surely-we-win-) | Early warning when an eye-screening AI degrades at a clinic |
 | 🦆 | **GUTS 2026** · JPMorgan Chase challenge | [Duck Run](https://github.com/Tejas-kaushik/duck-run) | 3D two-button party racer for a whole room |
 
-## 📊 GitHub at a glance
+## ▍signal
 
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejas-kaushik&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=Tejas-kaushik&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
-</div>
+<img src="assets/activity.svg" width="100%" alt="Contribution activity drawn as an oscilloscope trace"/>
+<img src="assets/languages.svg" width="100%" alt="Languages by code size"/>
 
-## 💼 Experience
+<sub>Drawn by my own script and redrawn every day by a GitHub Action, so nothing here depends on someone else's server.</sub>
+
+## ▍experience
 
 **Web Developer**, Content Book by Tee (CBT), Glasgow · *Oct 2026 to present*
 Build the studio's own full-stack website and enquiry desk, and website previews for the cafés CBT pitches to.
@@ -137,7 +147,7 @@ Build the studio's own full-stack website and enquiry desk, and website previews
 **Summer Engineering Intern**, Technology Business Incubator, Graphic Era Hill University · *Jun to Jul 2026*
 Built a networked air-quality monitor with a live web dashboard, from breadboard to working demonstrator, and prototyped a 3D-printed 4-DOF robotic arm with its control firmware.
 
-## 🛠️ Tech stack
+## ▍stack
 
 **Languages**<br/>
 <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,ts,matlab&theme=dark" alt="C, C++, Python, Java, JavaScript, TypeScript, MATLAB"/>
@@ -146,33 +156,24 @@ Built a networked air-quality monitor with a live web dashboard, from breadboard
 <img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,git,githubactions,vscode,nodejs,express,django,react,tailwind,html,css,threejs,supabase,sqlite,redis,vercel&theme=dark" alt="Linux, Ubuntu, Bash, Git, GitHub Actions, VS Code, Node.js, Express, Django, React, Tailwind, HTML, CSS, Three.js, Supabase, SQLite, Redis, Vercel"/>
 
 **Embedded and hardware**<br/>
-![FreeRTOS](https://img.shields.io/badge/FreeRTOS-008C45?style=flat-square&logo=freertos&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-0091BD?style=flat-square&logo=arm&logoColor=white)
-![I²C · SPI · UART](https://img.shields.io/badge/I²C_·_SPI_·_UART-34495E?style=flat-square)
-![PWM · ADC](https://img.shields.io/badge/PWM_·_ADC-34495E?style=flat-square)
-![OrCAD](https://img.shields.io/badge/OrCAD_Capture-00843D?style=flat-square)
-![PSpice](https://img.shields.io/badge/PSpice-006F62?style=flat-square)
-![Oscilloscope](https://img.shields.io/badge/Oscilloscope_·_Logic_Analyser-7D3C98?style=flat-square)
+![FreeRTOS](https://img.shields.io/badge/FreeRTOS-121a18?style=flat-square&logo=freertos&logoColor=a1ffcb)
+![ESP32](https://img.shields.io/badge/ESP32-121a18?style=flat-square&logo=espressif&logoColor=a1ffcb)
+![ARM Cortex-M](https://img.shields.io/badge/ARM_Cortex--M-121a18?style=flat-square&logo=arm&logoColor=a1ffcb)
+![I²C · SPI · UART](https://img.shields.io/badge/I²C_·_SPI_·_UART-121a18?style=flat-square&logoColor=a1ffcb)
+![PWM · ADC](https://img.shields.io/badge/PWM_·_ADC-121a18?style=flat-square&logoColor=a1ffcb)
+![OrCAD](https://img.shields.io/badge/OrCAD_Capture-121a18?style=flat-square&logoColor=a1ffcb)
+![PSpice](https://img.shields.io/badge/PSpice-121a18?style=flat-square&logoColor=a1ffcb)
+![Oscilloscope](https://img.shields.io/badge/Oscilloscope_·_Logic_Analyser-121a18?style=flat-square&logoColor=a1ffcb)
 
 **Testing and quality**<br/>
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
-![node:test](https://img.shields.io/badge/node:test-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-121a18?style=flat-square&logo=pytest&logoColor=a1ffcb)
+![node:test](https://img.shields.io/badge/node:test-121a18?style=flat-square&logo=nodedotjs&logoColor=a1ffcb)
 ![Unity](https://img.shields.io/badge/Unity_(C_tests)-555555?style=flat-square)
-![Sanitizers](https://img.shields.io/badge/ASan_·_UBSan-555555?style=flat-square)
-![valgrind](https://img.shields.io/badge/valgrind-555555?style=flat-square)
-![perf](https://img.shields.io/badge/perf_·_callgrind-555555?style=flat-square)
+![Sanitizers](https://img.shields.io/badge/ASan_·_UBSan-121a18?style=flat-square&logoColor=a1ffcb)
+![valgrind](https://img.shields.io/badge/valgrind-121a18?style=flat-square&logoColor=a1ffcb)
+![perf](https://img.shields.io/badge/perf_·_callgrind-121a18?style=flat-square&logoColor=a1ffcb)
 
-## 📊 GitHub activity
-
-<div align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=Tejas-kaushik&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Tejas-kaushik&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=Tejas-kaushik&theme=tokyonight&hide_border=true" alt="Contribution streak"/>
-</div>
-
-## 🌱 Beyond code
+## ▍beyond code
 
 - 🥇 Gold medallist, National Volleyball Championship (2022)
 - 🎨 Creative Director, GU Indian Society · 🤝 Events Coordinator, INSA Society
@@ -180,8 +181,8 @@ Built a networked air-quality monitor with a live web dashboard, from breadboard
 
 <div align="center">
 
-<img src="assets/footer.svg" width="100%" alt=""/>
+<img src="assets/footer.svg" width="100%" alt="End of file"/>
 
-**Let's build something.** <a href="mailto:tejaskaushik04@gmail.com">tejaskaushik04@gmail.com</a> · <a href="https://www.linkedin.com/in/tejas-kaushik-62435b405">LinkedIn</a>
+**Let's build something.** <a href="mailto:tejaskaushik04@gmail.com">tejaskaushik04@gmail.com</a> · <a href="https://tejas-kaushik.github.io/">tejas-kaushik.github.io</a> · <a href="https://www.linkedin.com/in/tejas-kaushik-62435b405">LinkedIn</a>
 
 </div>
