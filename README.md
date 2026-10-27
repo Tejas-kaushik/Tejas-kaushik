@@ -3,7 +3,7 @@
 <img src="assets/header.svg" width="100%" alt="Tejas Kaushik"/>
 
 <a href="https://github.com/Tejas-kaushik">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+from+the+PCB+up+to+the+server.;Systems+software+in+C+on+Linux+%C2%B7+epoll%2C+perf%2C+valgrind;Real-time+firmware+on+ESP32+and+ARM+Cortex-M;%F0%9F%A5%88+2nd+place+%C2%B7+StrathHack26;Full-stack+websites+for+Content+Book+by+Tee;Open+to+Summer+2027+placements" alt="Typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=640&lines=I+build+from+the+PCB+up+to+the+server.;Systems+software+in+C+on+Linux+%C2%B7+epoll%2C+perf%2C+valgrind;Real-time+firmware+on+ESP32+and+ARM+Cortex-M;%F0%9F%A5%88+2nd+place+%C2%B7+StrathHack26;Catching+silent+AI+failures+in+eye+clinics+%C2%B7+OxHack+26;Full-stack+websites+for+Content+Book+by+Tee;Open+to+Summer+2027+placements" alt="Typing intro"/>
 </a>
 
 <p>
@@ -36,10 +36,11 @@ tejas:
 
 <table>
 <tr>
-<td align="center" width="25%"><h3>🥈 2nd</h3><sub><b>StrathHack26</b><br/>ScottishPower cyber security challenge</sub></td>
-<td align="center" width="25%"><h3>−40%</h3><sub><b>instructions per request</b><br/>in my Redis-compatible C server, found with <code>perf</code></sub></td>
-<td align="center" width="25%"><h3>200 Hz</h3><sub><b>hard-real-time PID loop</b><br/>held steady under live Wi-Fi load</sub></td>
-<td align="center" width="25%"><h3>360+</h3><sub><b>automated tests</b><br/>behind the award-winning Zero Hour game</sub></td>
+<td align="center" width="20%"><h3>🥈 2nd</h3><sub><b>StrathHack26</b><br/>ScottishPower cyber security challenge</sub></td>
+<td align="center" width="20%"><h3>8 / 8</h3><sub><b>failing eye clinics caught</b><br/>by my ClinicDrift engine at OxHack 26, 0 false alarms</sub></td>
+<td align="center" width="20%"><h3>−40%</h3><sub><b>instructions per request</b><br/>in my Redis-compatible C server, found with <code>perf</code></sub></td>
+<td align="center" width="20%"><h3>200 Hz</h3><sub><b>hard-real-time PID loop</b><br/>held steady under live Wi-Fi load</sub></td>
+<td align="center" width="20%"><h3>360+</h3><sub><b>automated tests</b><br/>behind the award-winning Zero Hour game</sub></td>
 </tr>
 </table>
 
@@ -51,6 +52,14 @@ tejas:
 - Every game rule lives in one pure reducer, so two phones buying at the same moment can never overspend a team's budget
 - Real-time sync over Server-Sent Events with server-clock countdowns and seamless reconnects
 - 360+ `node --test` tests, including the shared-budget race and path-traversal hardening; a hand-written PDF writer generates each player's debrief
+
+### 🔬 [ClinicDrift](https://github.com/ox-hack-26/oxhack26-surely-we-win-) · Python · PyTorch · React · Three.js
+**Team project at OxHack 26** for the HRT "Best Use of Data for Predictions and Decision Making" challenge. Eye-screening AIs can quietly get worse at one clinic (a wearing camera, a bad software update), and expert grades that would reveal it arrive weeks late. ClinicDrift spots it from the scans alone and decides when to pull the AI for review.
+
+- **My part: the prediction and decision engine.** A label-free catch-rate estimate and a drift score per clinic-week, fed into a belief that updates as late grades arrive and a cost-based rule for when to alarm
+- Replayed 20 weeks at 10 simulated clinics over 9,500 real retinal scans: **caught all 8 clinics that changed, with zero false alarms, in 100 of 100 redraws of the grades**, against a median of 0 of 8 for today's wait-for-grades practice
+- Caught a faulty update that drift alone never sees (the scans look identical), and roughly **halved the modelled cost** (£210k vs £489k)
+- Backtested against three simpler policies with a robustness sweep, so every quoted number is a range, not one lucky run
 
 ### 🦆 [Duck Run](https://github.com/Tejas-kaushik/duck-run) · TypeScript · Three.js · Supabase
 **Team project at GUTS 2026** for the JPMorgan Chase "two buttons maximum" challenge. A 3D browser game where a whole room races on their phones while the big screen shows every duck on one track, with live commentary and a podium. **[▶ Play it](https://duck-run-lac.vercel.app)**
@@ -104,6 +113,21 @@ A voice assistant engineered around one latency budget: the first sound back wit
 | [**reverse-counter-display**](https://github.com/Tejas-kaushik/reverse-counter-display) | Digital logic | Breadboard countdown counter on a 7-segment display |
 
 </details>
+
+## 🏁 Hackathons
+
+| | Event | Project | What we built |
+|:-:|---|---|---|
+| 🥈 | **StrathHack26** · ScottishPower challenge | [Zero Hour](https://github.com/Tejas-kaushik/zero-hour) | **2nd place.** Multiplayer cyber-awareness game played on phones |
+| 🔬 | **OxHack 26** · HRT data challenge | [ClinicDrift](https://github.com/ox-hack-26/oxhack26-surely-we-win-) | Early warning when an eye-screening AI degrades at a clinic |
+| 🦆 | **GUTS 2026** · JPMorgan Chase challenge | [Duck Run](https://github.com/Tejas-kaushik/duck-run) | 3D two-button party racer for a whole room |
+
+## 📊 GitHub at a glance
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tejas-kaushik&show_icons=true&hide_border=true&bg_color=0d1117&title_color=38BDF8&icon_color=38BDF8&text_color=c9d1d9&rank_icon=github" alt="GitHub stats"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=Tejas-kaushik&hide_border=true&background=0d1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="GitHub streak"/>
+</div>
 
 ## 💼 Experience
 
